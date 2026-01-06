@@ -7,7 +7,7 @@ public class Number : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-         Debug.Log("Hallo..");
+        Debug.Log("Hallo..");
         Debug.Log(Number1);
         Debug.Log(Number2);
         // menambahkan sesuatu
